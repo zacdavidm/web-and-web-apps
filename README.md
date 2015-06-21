@@ -2,11 +2,12 @@
 Teaching of web and web apps using HTML, CSS, JS, AngularJS, and Git.
 
 Technologies:
+
 HTML, CSS, JS, AngularJS, Git (w/github)
 
 ## Day 1
 
-- [ ] KWL(KW)
+- [ ] KWL(KW):
 
 - [ ] Course Intro:
 
@@ -14,13 +15,13 @@ This course is about how to create websites for any screen size. We will follow 
 
 - [ ] Setup:
 
-Need access to email address (gmail preferred for MIT App Inventor later).
-Need to create [GitHub account](https://github.com/join).
-Need to download and set up [github for mac](https://mac.github.com).
-Need to download a text editor:
-- [Atom](https://atom.io/) (Linux, Mac, Windows)
-- [Text Wrangler](http://www.barebones.com/products/textwrangler/download.html) (Mac)
-- [Notepad ++](https://notepad-plus-plus.org/download) (Windows)
+- Need access to email address (gmail preferred for MIT App Inventor later).
+- Need to create [GitHub account](https://github.com/join).
+- Need to download and set up [github for mac](https://mac.github.com).
+- Need to download a text editor:
+  - [Atom](https://atom.io/) (Linux, Mac, Windows)
+  - [Text Wrangler](http://www.barebones.com/products/textwrangler/download.html) (Mac)
+  - [Notepad ++](https://notepad-plus-plus.org/download) (Windows)
 
 - [ ] Web Intro:
 
@@ -40,27 +41,27 @@ Go over the basic Doctype and index.html file. Go over markup elements.
 
 CSS can be inline, internal, or external. Connecting external CSS. Go over inheritance/specificity (concept of cascading).
 
-- [ ] KWL(L)
+- [ ] KWL(L):
 ## Day 2
 
-- [ ] KWL(KW)
+- [ ] KWL(KW):
 
-- [ ] KWL(L)
+- [ ] KWL(L):
 
 ## Day 3
 
-- [ ] KWL(KW)
+- [ ] KWL(KW):
 
-- [ ] KWL(L)
+- [ ] KWL(L):
 
 ## Day 4
 
-- [ ] KWL(KW)
+- [ ] KWL(KW):
 
-- [ ] KWL(L)
+- [ ] KWL(L):
 
 ## Day 5
 
-- [ ] KWL(KW)
+- [ ] KWL(KW):
 
-- [ ] KWL(L)
+- [ ] KWL(L):
